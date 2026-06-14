@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Yogesh",
+    "niche": "Blockchain"
+  },
+  {
+    "id": 2,
+    "name": "Aarav",
+    "niche": "Frontend"
+  },
+  {
+    "id": 3,
+    "name": "Priya",
+    "niche": "Backend"
+  },
+  {
+    "id": 4,
+    "name": "Rahul",
+    "niche": "DevOps"
+  },
+  {
+    "id": 5,
+    "name": "Sneha",
+    "niche": "Machine Learning"
+  },
+  {
+    "id": 6,
+    "name": "Vikram",
+    "niche": "Cybersecurity"
+  },
+  {
+    "id": 7,
+    "name": "Ananya",
+    "niche": "Cloud Computing"
+  },
+  {
+    "id": 8,
+    "name": "Rohan",
+    "niche": "Mobile Development"
+  },
+  {
+    "id": 9,
+    "name": "Kavya",
+    "niche": "Data Engineering"
+  },
+  {
+    "id": 10,
+    "name": "Arjun",
+    "niche": "AI Engineering"
+  }
+]
