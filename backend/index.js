@@ -10,7 +10,7 @@ app.use(express.json());
 const PORT = 3000;
 
 app.get('/', (req, res) => {
-    res.status(200).json({ message: "Hello from Express" });
+    res.status(200).json({ message: `Express server is running on port ${PORT}` });
 });
 
 app.get('/users', (req, res) => {
